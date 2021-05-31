@@ -1,2 +1,2 @@
 # task04-front-end
-html and css application
+html and css web task
